@@ -17,7 +17,9 @@
 ## 4. Credits 
 
    [PokeSerGG](https://github.com/PokeSerGG)
+   
    [z00t](https://github.com/z00t) - Thanks for huge help
+   
    [DeMoN](https://github.com/DeMoN8O8) - Thanks for Converted to QRCore
 
 
